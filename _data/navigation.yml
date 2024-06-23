@@ -4,6 +4,14 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Blog"
     url: /categories/blog/
+  - title: "year-archive"
+    url: /year-archive/
+  - title: "category-archive"
+    url: /category-archive/
+  - title: "tag-archive"
+    url: /tag-archive/
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
