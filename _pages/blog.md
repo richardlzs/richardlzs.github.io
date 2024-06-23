@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Blog"
-category: blog
+title: "blog"
+taxonomy: foo
 permalink: /categories/blog/
 ---
